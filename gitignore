@@ -1,0 +1,75 @@
+# Arquivos de compilação e saída
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.pdb
+*.exe
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de configuração
+*.suo
+*.user
+*.sln.docstates
+*.csproj.user
+*.config
+*.bak
+*.swp
+
+# Logs e arquivos temporários
+*.log
+*.vspscc
+*.vssscc
+VersionInfo.*
+Backup*/
+
+# Diretório de publicação
+_PublishedWebsites/
+PublishProfiles/
+
+# Visual Studio files
+.vscode/
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+.DS_Store
