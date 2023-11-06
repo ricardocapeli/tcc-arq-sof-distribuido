@@ -1,1 +1,81 @@
+# Arquivos e diretórios específicos do Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+Properties/
+_ReSharper.Caches/
+node_modules/
+wwwroot/
+
+# Arquivos de compilação C#
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de log e depuração
+*.log
+logs/
+*.vspscc
+*.vssscc
+TestResults/
+[Bb]in/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll][Oo][Gg][Ss]/
+
+# Arquivos de compilação e publicação
+[Tt]est[Rr]esult*/
+packages/
+
+# Visual Studio database project
+[Dd]acpac/
+[Bb]acpac/
+obj/
+
+# Rider directories
+.idea/
+.idea2019/
+.idea2020/
+.idea2021/
+.idea2022/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msp
+*.msm
+
+# Windows shortcuts
+*.lnk
+
+# End of .gitignore for .NET
 .DS_Store
