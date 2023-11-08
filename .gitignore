@@ -79,3 +79,32 @@ $RECYCLE.BIN/
 
 # End of .gitignore for .NET
 .DS_Store
+
+# Arquivos gerados durante o desenvolvimento
+/node_modules
+/build
+/dist
+
+# Arquivos de configuração
+/.env
+/.env.local
+/.env.development
+/.env.test
+/.env.production
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de log e saída
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Outros
+.DS_Store
+
+# Cache
+.cache/
+npm-cache/
+yarn-cache/
